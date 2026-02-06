@@ -1,0 +1,16 @@
+Saved protection:
+———————————
+Old Renamer = true
+Types = true
+Properties = true
+Fields = true
+Events = true
+Methods = true
+Parameters = true
+Code Optimization = true
+Preserve All = true
+Invalid Metadata = true
+Fake Attributes = true
+Code Encryption = true
+Anti Debug = true
+Local To Field Preset = Method
